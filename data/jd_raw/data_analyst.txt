@@ -1,0 +1,12 @@
+We are hiring a Junior Data Analyst for our analytics team.
+
+Required skills:
+- Python
+- SQL
+- Excel
+- PowerBI
+
+Candidates should have 0-2 years of experience.
+
+Preferred education:
+BTech, BSc, or MSc in Computer Science, Data Science, Statistics, or Mathematics.

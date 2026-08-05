@@ -1,0 +1,19 @@
+{
+    "job_title": "data analyst",
+    "required_skills": [
+        "excel",
+        "power bi",
+        "sql",
+        "python"
+    ],
+    "experience_requirements": {
+        "minimum_years": 0,
+        "maximum_years": 2
+    },
+    "education_preferences": [
+        "BTECH",
+        "MSC",
+        "BSC"
+    ],
+    "normalized_text": "we are hiring a junior data analyst for our analytics team. required skills: - python - sql - excel - powerbi candidates should have 0-2 years of experience. preferred education: btech, bsc, or msc in computer science, data science, statistics, or mathematics."
+}
